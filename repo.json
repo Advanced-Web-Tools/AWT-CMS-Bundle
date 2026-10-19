@@ -1,0 +1,10 @@
+{
+  "_description": "A repository for storing and managing code and other files. This is only used on repository and is not installed on AWT.",
+  "versions": [
+    {
+      "minimum_awt_version": "27.1.0",
+      "maximum_awt_version": null,
+      "release_url": ""
+    }
+  ]
+}
