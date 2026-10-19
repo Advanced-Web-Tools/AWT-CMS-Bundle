@@ -39,8 +39,8 @@
     },
     {
       "name": "ThemeEngine",
-      "version": ">=1.0.4",
-      "url": "https://github.com/Advanced-Web-Tools/Theme-Engine/releases/download/ThemeEngine-1.0.4/ThemeEngine-1.0.4.zip"
+      "version": ">=1.0.5",
+      "url": "https://github.com/Advanced-Web-Tools/Theme-Engine/releases/download/ThemeEngine-1.0.5/ThemeEngine-1.0.5.zip"
     },
     {
       "name": "URPC",
@@ -65,7 +65,7 @@
     {
       "name": "WelcomeTheme",
       "version": ">=1.0.0",
-      "url": "https://github.com/Advanced-Web-Tools/Welcome-Theme/releases/download/1.0.0/WelcomeTheme-1.0.0.zip"
+      "url": "https://github.com/ElStefanos/Welcome-Theme/releases/download/1.0.0/WelcomeTheme-1.0.0.zip"
     }
   ]
 }
