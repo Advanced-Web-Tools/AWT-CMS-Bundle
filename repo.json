@@ -4,7 +4,9 @@
     {
       "minimum_awt_version": "27.1.0",
       "maximum_awt_version": null,
-      "release_url": ""
+      "release_url": "https://github.com/Advanced-Web-Tools/AWT-CMS-Bundle/releases/download/1.0.0/CMSBundle-1.0.0.zip",
+      "latest": true,
+      "version": "1.0.0"
     }
   ]
 }
