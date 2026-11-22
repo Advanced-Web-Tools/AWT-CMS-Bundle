@@ -1,6 +1,6 @@
 {
   "name": "CMSBundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minimum_awt_version": "27.1.0",
   "maximum_awt_version": null,
   "author": "ElStefanos",
@@ -14,8 +14,8 @@
   "dependencies": [
     {
       "name": "Dashboard",
-      "version": ">=1.0.2",
-      "url": "https://github.com/Advanced-Web-Tools/Dashboard/releases/download/1.0.2/Dashboard-1.0.2.zip"
+      "version": ">=1.0.4",
+      "url": "https://github.com/Advanced-Web-Tools/Dashboard/releases/download/1.0.4/Dashboard-1.0.4.zip"
     },
     {
       "name": "PackageManager",
@@ -24,8 +24,8 @@
     },
     {
       "name": "Quill",
-      "version": ">=1.0.0",
-      "url": "https://github.com/Advanced-Web-Tools/Quill/releases/download/1.0.1/Quill-1.0.1.zip"
+      "version": ">=1.0.2",
+      "url": "https://github.com/Advanced-Web-Tools/Quill/releases/download/1.0.2/Quill-1.0.2.zip"
     },
     {
       "name": "QuillMediaBridge",
