@@ -40,7 +40,7 @@ After activation, the public theme takes effect on the next request. You can the
 2. Open the Dashboard to access your content, media, accounts and administration tools.
 3. Customize your theme and create your pages with Quill.
 
-Requires **AWT 27.1.0 or later**. CMSBundle 1.0.2 declares Dashboard **1.0.4 or later**, PackageManager **1.1.0 or later**, Quill **1.0.2 or later**, ThemeEngine **1.0.5 or later**, and the other included packages **1.0.0 or later**. Individual packages may have additional requirements.
+Requires **AWT 27.2.0 through 27.3.0** (inclusive). CMSBundle 1.0.3 declares Dashboard **1.0.4 or later**, PackageManager **1.1.0 or later**, Quill **1.0.2 or later**, ThemeEngine **1.1.0 or later**, and the other included packages **1.0.0 or later**. Individual packages may have additional requirements.
 
 ## First-run behavior
 
@@ -50,4 +50,4 @@ The PHP process needs permission to create this marker in the package directory.
 
 ---
 
-**CMSBundle 1.0.2** · By **ElStefanos** · Built for **Advanced Web Tools**
+**CMSBundle 1.0.3** · By **ElStefanos** · Built for **Advanced Web Tools**

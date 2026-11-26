@@ -1,8 +1,8 @@
 {
   "name": "CMSBundle",
-  "version": "1.0.2",
-  "minimum_awt_version": "27.1.0",
-  "maximum_awt_version": null,
+  "version": "1.0.3",
+  "minimum_awt_version": "27.2.0",
+  "maximum_awt_version": "27.3.0",
   "author": "ElStefanos",
   "type": 1,
   "system_package": 1,
@@ -39,8 +39,8 @@
     },
     {
       "name": "ThemeEngine",
-      "version": ">=1.0.5",
-      "url": "https://github.com/Advanced-Web-Tools/Theme-Engine/releases/download/ThemeEngine-1.0.5/ThemeEngine-1.0.5.zip"
+      "version": ">=1.1.0",
+      "url": "https://github.com/Advanced-Web-Tools/Theme-Engine/releases/download/1.1.0/ThemeEngine-1.1.0.zip"
     },
     {
       "name": "URPC",
